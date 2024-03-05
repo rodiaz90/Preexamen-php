@@ -1,0 +1,1 @@
+SELECT * FROM usuarios WHERE name = "admin" AND password = "1234"
